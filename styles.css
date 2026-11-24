@@ -14,3 +14,4 @@
 @media(max-width:1050px){.header{padding-left:4%;padding-right:4%}.brand{min-width:170px}.header nav{gap:15px}.header nav a{font-size:9px}.header-actions{gap:9px}.header-actions .nav-cta,.donate-cta{font-size:9px}}
 @media(max-width:760px){.header nav{display:none}}
 @media(max-width:640px){.intro.section{width:92%;margin:36px auto 0;padding:34px 6% 35px;grid-template-columns:1fr;gap:23px}.intro-image{order:-1;height:250px}.intro-copy>p.lead{font-size:18px;margin-top:12px}.wildlife.section{width:92%;margin:32px auto 0;padding:48px 6%}.wildlife .section-heading h2{font-size:clamp(36px,10vw,43px)}.photo-grid figcaption small{font-size:6px;letter-spacing:.03em}}
+@media(max-width:640px){.ticker span:last-child{display:inline}.ticker span:nth-child(3),.ticker span:nth-child(4){display:none}}
