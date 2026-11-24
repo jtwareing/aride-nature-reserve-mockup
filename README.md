@@ -10,6 +10,7 @@ The donation calls to action open the Island Conservation Society UK donation fl
 ## Photography sources
 
 - Aride landscape, seabirds, woodland and reserve images: [Aride Island Nature Reserve](https://www.arideisland.com/)
+- Island Conservation Society logo: [Aride Island Nature Reserve](https://www.arideisland.com/about-us.html)
 - Seychelles Fody: photo by Aurelie Duhec, via the [Island Conservation Society article on Aride bird tagging](https://www.islandconservationseychelles.com/news/aride-bird-tagging-to-boost-understanding-of-seychelles-endemics)
 - Cadbury Lodge: [Seychelles Nation, 17 December 2025](https://www.nation.sc/www/articles/28643/cadbury-lodge-on-aride-island-officially-reopens)
 
